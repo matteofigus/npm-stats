@@ -1,5 +1,5 @@
 {
-  "name": "npm-stats",
+  "name": "npm-stats-patched",
   "version": "1.2.0",
   "description": "Convenience module for getting back data from an NPM registry",
   "main": "index.js",
@@ -8,14 +8,14 @@
     "event-stream": "~3.0.12",
     "lodash.merge": "~3.3.2",
     "nano": "^6.2.0",
-    "request": "~2.45.0",
+    "request": "^2.88.0",
     "stream-reduce": "~1.0.3",
     "through": "~2.3.6"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "moment": "^2.11.1",
-    "tap": "^5.4.2"
+    "tap": "^14.2.4"
   },
   "scripts": {
     "test": "tap --coverage ./test.js"
