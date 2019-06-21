@@ -1,4 +1,4 @@
-# npm-stats #
+# npm-stats-patched (fork + security patches) #
 
 Convenience module for getting back data from an NPM registry.
 All of the methods return a JSON stream, and/or take a callback.
