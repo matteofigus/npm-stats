@@ -1,6 +1,6 @@
 {
   "name": "npm-stats-patched",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Convenience module for getting back data from an NPM registry",
   "main": "index.js",
   "dependencies": {
