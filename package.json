@@ -6,7 +6,7 @@
   "dependencies": {
     "JSONStream": "~0.6.2",
     "event-stream": "~3.0.12",
-    "lodash.merge": "~3.3.2",
+    "lodash.merge": "^4.6.2",
     "nano": "^6.2.0",
     "request": "^2.88.0",
     "stream-reduce": "~1.0.3",
